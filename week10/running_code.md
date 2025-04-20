@@ -7,15 +7,12 @@ First we need to get the code for this unit onto our local machines.
 By now, you should all have your GitHub app and credentials running. If you are still having trouble, please reach out!
 
 
-Clone the Repo
+Clone the repo
 - Go to repo (https://github.com/yadlra/pervasive-media-nlp.git)
-- Click Clone or download
-- Open in App
+- Click clone or download
+- Open in app
 - Choose an install location on your computer (by default this is a Github folder)
 
-Get updates (in App)
-- Click Fetch origin
-- Click Pull origin
 
 ### Running Jupyter Notebook
 
