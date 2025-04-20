@@ -12,4 +12,4 @@ Follow these instructions:
 
 If you're really having trouble installing on your computer, you can run code in cloud
 
-Using Google Colab
+[Using Google Colab](https://github.com/yadlra/pervasive-media-nlp/blob/main/week10/google_colab.md)
