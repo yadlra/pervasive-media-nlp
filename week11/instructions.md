@@ -1,4 +1,4 @@
-# 🧠 NLP Journey — Your Learning Path
+# 🧠 NLP tasks to complete
 
 ## 1️⃣ Scraping HTML 🕸️  
 We’ll start by **collecting real-world text data** from the web. Learning to scrape teaches you how to gather the raw materials you’ll use throughout the course.
